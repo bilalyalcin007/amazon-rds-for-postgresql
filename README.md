@@ -1,4 +1,4 @@
-# Amazon RDS for PostgreSQL Workshop (Hands-on)
+# Amazon RDS for PostgreSQL Workshop 
 
 This repository contains my step-by-step notes and screenshots from **AWS Workshop Studio: Amazon RDS for PostgreSQL**.  
 I deployed a PostgreSQL instance, created a **read replica**, built a **Multi-AZ DB cluster (3 instances)**, configured **monitoring/alarms**, and managed the database with **psql** (VS Code Server) and **pgAdmin** (DB, schema, tables, roles, users, grants, function).
